@@ -1,4 +1,4 @@
-<img width="1692" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/14172618-85f8-4d89-8801-c0efab054a40" />
+<img width="1656" height="438" alt="github-header-banner" src="https://github.com/user-attachments/assets/f1d56299-cd2c-4663-beea-96bde4e4d6df" />
 
 ### Hello! 👋 I'm Daniel Félix de Oliveira
 
