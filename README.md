@@ -1,3 +1,5 @@
+<img width="1692" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/14172618-85f8-4d89-8801-c0efab054a40" />
+
 ### Hello! 👋 I'm Daniel Félix de Oliveira
 
 Welcome to my profile! I am a **Software Developer** with a solid foundation of +20 years in management and team leadership.
